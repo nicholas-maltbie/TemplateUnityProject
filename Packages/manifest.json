@@ -1,4 +1,13 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "nickmaltbie",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "com.nickmaltbie"
+      ]
+    }
+  ],
   "dependencies": {
     "com.unity.collab-proxy": "1.17.6",
     "com.unity.feature.development": "1.0.1",
