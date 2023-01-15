@@ -1,0 +1,21 @@
+{
+    "name": "nickmaltbie.TemplateUnityProject.Tests.EditMode",
+    "rootNamespace": "nickmaltbie.TemplateUnityProject.Tests.EditMode",
+    "references": [
+        "nickmaltbie.TemplateUnityProject"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
