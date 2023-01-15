@@ -3,7 +3,7 @@
         {
             "src": [
                 {
-                    "src": "../Assets/com.nickmaltbie.TemplateUnityProject",
+                    "src": "../Assets",
                     "files": [
                         "**/*.cs"
                     ]
@@ -56,7 +56,7 @@
         ],
         "overwrite": [
             {
-                "src": "../Assets/com.nickmaltbie.TemplateUnityProject",
+                "src": "../Assets",
                 "files": [
                     "**/*.cs"
                 ]
